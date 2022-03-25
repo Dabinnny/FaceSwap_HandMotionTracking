@@ -1,2 +1,2 @@
-# HandTracking_MotionRecognition
-OpenCV,Mediapipe 활용 핸드모션인식 시스템
+# FaceSwap & HandMotionTracking System
+OpenCV,Mediapipe 활용 얼굴, 핸드모션 인식시스템 구현
