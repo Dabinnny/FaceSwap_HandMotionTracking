@@ -31,7 +31,6 @@ class DragImg():
         ox, oy = self.posOrigin
         h, w = self.size
  
-        # Check if in region
         if ox < cursor[0] < ox + w and oy < cursor[1] < oy + h:
             self.posOrigin = cursor[0] - w // 2, cursor[1] - h // 2
  
