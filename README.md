@@ -31,6 +31,14 @@ OpenCV, Dlib, Mediapipe 활용 얼굴 및 핸드모션 인식시스템 구현
 
 </br> 
 </br> 
+
+**4. 웹카메라 또는 동영상에도 적용할 수 있습니다.** 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/90162819/160764278-1c472782-4494-4ff0-b98a-a1d960f4e11d.gif" ></div> 
+
+</br> 
+</br> 
 </br> 
 
 ## ✔️ Hand Motion Tracking
